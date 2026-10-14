@@ -3,7 +3,7 @@
 # Comitea
 
 ### Coffee shop one-page dengan scroll yang bikin betah.
-**Tea · Coffee · Milk** — dibangun dengan Next.js 15 dan animasi [motion.dev](https://motion.dev)
+**Coffee Milk Tea ** - dibangun dengan Next.js 15 dan animasi [motion.dev](https://motion.dev)
 
 <br />
 
