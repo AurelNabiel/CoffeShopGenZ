@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 import { EASE_OUT } from "@/lib/anim";
 
 const STEPS = [
-  { t: "Sangrai", d: "Biji disangrai di Jakarta tiap Senin, lalu diistirahatkan dulu sebelum dipakai.", s: "Medium · istirahat 5 hari" },
+  { t: "Sangrai", d: "Biji disangrai di Bekasi tiap Senin, lalu diistirahatkan dulu sebelum dipakai.", s: "Medium · istirahat 5 hari" },
   { t: "Giling", d: "Digiling per pesanan, ukurannya beda untuk espresso, V60, dan cold brew.", s: "Espresso 18 g · V60 15 g" },
   { t: "Seduh", d: "Air ditimbang, suhu diukur, waktu dihitung. Rasanya sama tiap kali kamu datang.", s: "93°C · 1:15 · 2:45 menit" },
   { t: "Sajikan", d: "Sampai di meja kamu selagi aromanya paling wangi.", s: "< 60 detik ke meja" },

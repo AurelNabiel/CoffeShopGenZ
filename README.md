@@ -38,7 +38,7 @@
 ## Tech Stack
 
 - **[Next.js 15](https://nextjs.org)** (App Router) + **React 19** + **TypeScript**
-- **[`motion`](https://motion.dev) 12** — `useScroll`, `useTransform`, spring, `layoutId`, `AnimatePresence`
+- **[`motion`](https://motion.dev) 12** - `useScroll`, `useTransform`, spring, `layoutId`, `AnimatePresence`
 - **`next/font/google`** — Unbounded, Plus Jakarta Sans, DM Mono
 - **CSS biasa** di `app/globals.css` (tanpa Tailwind)
 

@@ -36,7 +36,7 @@ export default function MenuSection() {
         <div className="head">
           <div>
             <p className="eyebrow">Menu kami</p>
-            <h2>Pilih lemarimu.</h2>
+            <h2>Pilih Racikanmu.</h2>
           </div>
           <div className="tabs" role="tablist" aria-label="Kategori menu">
             {CATEGORIES.map((c) => (
